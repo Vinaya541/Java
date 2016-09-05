@@ -1,7 +1,7 @@
 import java.io.*;
 class Alpha
 {
- public static void main(String args[])
+ public static void main(String args[])throws IOException
  {
   char n;
   DataInputStream ds=new DataInputStream(System.in);
