@@ -1,7 +1,7 @@
 import java.io.*;
 class VowelCons
 {
- public static void main(String args[])
+ public static void main(String args[])throws IOException
  {
   char a;
   DataInputStream ds = new DataInputStream(System.in);
