@@ -1,7 +1,7 @@
 import java.io.*;
 class EvenOdd
 {
- public static void main(String args[])
+ public static void main(String args[])throws IOException
  {
   int n;
   DataInputStream ds=new DataInputStream(System.in);
